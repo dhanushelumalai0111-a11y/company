@@ -1,0 +1,6 @@
+{
+  "name": "Steel Men Security Force",
+  "description": "Professional corporate website and operations management system for Steel Men Security Force in Bengaluru, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
